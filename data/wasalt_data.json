@@ -1,0 +1,461 @@
+[
+    {
+        "source": "Wasalt",
+        "website": "https://wasalt.sa/en",
+        "title": "Properties For Sale and Rent in Saudi Arabia | Wasalt",
+        "description": "Find properties For Sale and Rent in Saudi Arabia, Wasalt the Saudi's largest selection of properties.Installment Payment Plans available | Wasalt",
+        "headings": [
+            "Sell, Rent, Buy, or Auction Properties with Wasalt!"
+        ],
+        "paragraphs": [
+            "Explore verified properties, connect with trusted professionals, and find your next opportunity in Saudi Arabia."
+        ],
+        "content": "Listings Auctions Projects Support Post Property Get Matched Sell, Rent, Buy, or Auction Properties with Wasalt! Explore verified properties, connect with trusted professionals, and find your next opportunity in Saudi Arabia. Buy Rent Projects Daily Rentals Barter New City District Property type Search View commercial properties only Why List Your Property with Wasalt? List your property and connect with buyers and renters across Saudi Arabia. List Your property for sale or rent Quickly list your property with just a few clicks Post Property List your daily rentals with Wasalt Weekly earnings, free coverage, and competitive commission rates Register Now Discover the latest real estate listings in Saudi Arabia Find the latest real estate listings in Saudi Arabia, including apartments, villas, and land available for sale. Villas for Sale Explore newly launched villas for sale across Saudi Arabia View all Villas Riyadh Villa for sale in Riyadh Jeddah Villa for sale in Jeddah Makkah Villa for sale in Makkah Madinah Villa for sale in Madinah Apartment for Sale Explore newly launched apartment for sale across Saudi Arabia View all Apartments Riyadh Apartments for sale in Riyadh Jeddah Apartments for sale in Jeddah Makkah Apartments for sale in Makkah Madinah Apartments for sale in Madinah Find Your Next Real Estate Investment Discover verified projects and invest with total confidence. Explore Projects Find the right property for your needs Share your requirements and get connected with relevant property experts. Get Matched Discover Auctions Across Saudi Arabia Participate in Infath and private auctions across Saudi Arabia, spanning real estate, vehicles, and movable assets. View all Auctions Explore International Luxury Properties Global Access, Exclusive Listings & Premium Living Explore Download Wasalt & Wasalt Business App Selling, buying, and renting… properties made easy with our apps! Enhance your experience with the Wasalt app! Scan QR code or click button to download app Grow your business. Connect with clients easily. Scan QR code or click button to download app About Wasalt Wasalt - Saudi Arabia’s trusted real estate platform Saudi Arabia's AI-backed real estate platform for verified properties and trusted brokers. Wasalt is a Saudi-based real estate platform that makes it easier to discover properties, explore opportunities, and connect with property experts across the Kingdom. Whether you’re looking to buy, rent, sell, or invest, Wasalt brings the right properties, insights, and services together in one place. REGA Licensed Platform License Number: 1200016591 Ministry of Tourism Licensed Platform License Number: 73106008 CR Number: 7017195509 Category: Accommodation & Unit Reservation Frequently Asked Questions Commonly asked questions about Wasalt and the services we provide What is Wasalt? How can I list my property on Wasalt? How do I log into my Wasalt account What is Wasalt Auctions? What is Matchmaker, and how does it work? What real estate services does Wasalt offer? Popular searches in the Saudi Arabia Most Popular Real Estate Picks Properties for rent in Saudi Arabia Properties for rent in Riyadh Properties for rent in Jeddah Properties for rent in Dammam Properties for rent in Makkah Luxury villas for rent in Saudi Arabia Villas for rent in Riyadh Villas for rent in Jeddah Villas for rent in Madinah Villa for rent in Dammam Luxury apartments in Saudi Arabia Apartments for rent in Riyadh Apartments for rent in Jeddah Apartments for rent in Madinah Apartments for rent in Dammam Properties for sale in Saudi Arabia Properties for sale in Riyadh Properties for sale in Jeddah Properties for sale in Makkah Properties for sale in Madinah Luxury villas for sale in Saudi Arabia Villas for sale in Riyadh Villas for sale in Jeddah Villas for sale in Makkah Villas for sale in Madinah Apartments for sale in Saudi Arabia Apartments for sale in Riyadh Apartments for sale in Jeddah Apartments for sale in Madinah Apartments for sale in Makkah Lands for sale in Saudi Arabia Lands for sale in Riyadh Lands for sale in Jeddah Lands for sale in Dammam Lands for sale in Makkah Villas for sale in Riyadh Villas for sale in Al Rimal Villas for sale in Al Olaya Villas for sale in Al Yasmeen Villas for sale in Al Khaleej Apartments for rent in Riyadh Apartments for rent in Al Rimal Apartments for rent in Al Khaleej Apartments for rent in Al Olaya Apartments for rent in Al Nakheel Type Properties for Sale in Riyadh Properties for Sale in Jeddah Properties for Sale in Makkah Properties for Sale in Dammam Properties for Sale in Al Khobar Properties for Sale in Khamis Mushayt Regions Villas for Sale in Riyadh Villas for Sale in Jeddah Villas for Sale in Makkah Villas for Sale in Dammam Villas for Sale in Al Khobar Villas for Sale in Khamis Mushayt Blogs About Us Privacy policy Terms of Use Terms of Advertising عربي",
+        "structured_data": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Wasalt",
+                "url": "https://wasalt.sa/en",
+                "telephone": "8001233227",
+                "logo": "https://cdn.wasalt.sa/images/wasalt-logo.svg?v1",
+                "image": "https://cdn.wasalt.sa/images/wasalt-logo.svg?v1",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Saudi Arabia",
+                    "addressRegion": "Riyadh",
+                    "sameAs": [
+                        "https://www.facebook.com/WasaltOfficial",
+                        "https://twitter.com/WasaltOfficial",
+                        "https://instagram.com/wasaltofficial",
+                        "https://www.youtube.com/channel/UCwV9YXTxwCNu-XhmsmWKJFA/featured",
+                        "https://www.linkedin.com/company/wasaltofficial"
+                    ]
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "Wasalt",
+                "url": "https://wasalt.sa/en",
+                "publisher": {
+                    "@id": "https://wasalt.sa/#organization"
+                },
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://wasalt.sa/en/sale/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": "Villas for Sale by City",
+                "itemListOrder": "http://schema.org/ItemListOrderAscending",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Villa for sale in Riyadh",
+                            "url": "https://wasalt.sa/en/villas-for-sale-in-riyadh"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Villa for sale in Jeddah",
+                            "url": "https://wasalt.sa/en/villas-for-sale-in-jeddah"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Villa for sale in Makkah",
+                            "url": "https://wasalt.sa/en/villas-for-sale-in-makkah"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Villa for sale in Madinah",
+                            "url": "https://wasalt.sa/en/villas-for-sale-in-madinah"
+                        }
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": "Apartment for Sale by City",
+                "itemListOrder": "http://schema.org/ItemListOrderAscending",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Apartments for sale in Riyadh",
+                            "url": "https://wasalt.sa/en/apartments-for-sale-in-riyadh"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Apartments for sale in Jeddah",
+                            "url": "https://wasalt.sa/en/apartments-for-sale-in-jeddah"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Apartments for sale in Makkah",
+                            "url": "https://wasalt.sa/en/apartments-for-sale-in-makkah"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Apartments for sale in Madinah",
+                            "url": "https://wasalt.sa/en/apartments-for-sale-in-madinah"
+                        }
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": "Property Services",
+                "itemListOrder": "http://schema.org/ItemListOrderAscending",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Find Your Next Real Estate Investment",
+                            "url": "https://wasalt.sa/en/sale/search?propertyFor=sale&countryId=1&cityId=273&type=residential&project=true",
+                            "description": "Discover verified projects and invest with total confidence."
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "WebPage",
+                            "name": "Find the right property for your needs",
+                            "url": "https://wasalt.sa/en/post-requirement",
+                            "description": "Share your requirements and get connected with relevant property experts."
+                        }
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": "Mobile App Downloads",
+                "itemListOrder": "http://schema.org/ItemListOrderAscending",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "MobileApplication",
+                            "name": "Enhance your experience with the Wasalt app!",
+                            "operatingSystem": "iOS",
+                            "applicationCategory": "RealEstateApplication",
+                            "installUrl": "https://apps.apple.com/in/app/wasalt/id1588885673?utm_source=Desktop&amp;utm_medium=Home&amp;utm_campaign=web_bottom_install_iOS",
+                            "url": "https://wasalt.sa/en/app",
+                            "publisher": {
+                                "@type": "Organization",
+                                "name": "Wasalt"
+                            }
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "MobileApplication",
+                            "name": "Grow your business. Connect with clients easily.",
+                            "operatingSystem": "iOS",
+                            "applicationCategory": "RealEstateApplication",
+                            "installUrl": "https://wasaltbusiness.onelink.me/kqgt/tz4114dl",
+                            "url": "https://wasalt.sa/en/app",
+                            "publisher": {
+                                "@type": "Organization",
+                                "name": "Wasalt"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Wasalt - Saudi Arabia’s trusted real estate platform",
+                "description": "Wasalt is a Saudi-based real estate platform that makes it easier to discover properties, explore opportunities, and connect with property experts across the Kingdom. Whether you’re looking to buy, rent, sell, or invest, Wasalt brings the right properties, insights, and services together in one place.",
+                "image": "https://media.wasalt.sa/cms-strapi/uploads/about-us-homepage.webp",
+                "logo": "https://media.wasalt.sa/cms-strapi/uploads/about-us-homepage.webp",
+                "url": "https://wasalt.sa/en"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": " What is Wasalt?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Wasalt is a leading platform in Saudi Arabia for electronic real estate services, licensed by the Real Estate General Authority (REGA). "
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How can I list my property on Wasalt?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "To list your property on Wasalt, start by creating an account, then entering property details, uploading photos, and setting prices, primarily through the Wasalt App, Wasalt Business App, or website. "
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How do I log into my Wasalt account",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Click the profile icon (top left on the web or via the burger menu in the app). Enter your mobile number and complete OTP verification."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is Wasalt Auctions?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Wasalt Auctions is a feature where real estate assets are sold through timed auctions. Bidders can compete to determine the final sale price. Auctions include assets from private sellers and those in collaboration with Infath (Entrustment and Liquidation Center)."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is Matchmaker, and how does it work?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Matchmaker helps you find potential leads based on your live listings. It matches leads based on the property type, purpose, district, and category of your live property. Once your listing is live, Matchmaker will show leads that match those preferences, making it easier for you to connect with the right leads.\n"
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What real estate services does Wasalt offer?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Wasalt is an AI-powered real estate portal for verified properties, projects, masterplans, online auctions, and daily rentals. Providing an enhanced search experience for users pursuing their ideal homes."
+                        }
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "SiteNavigationElement",
+                "name": "Main Navigation",
+                "hasPart": [
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for rent in Riyadh",
+                        "url": "https://wasalt.sa/en/properties-for-rent-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for rent in Jeddah",
+                        "url": "https://wasalt.sa/en/properties-for-rent-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for rent in Dammam",
+                        "url": "https://wasalt.sa/en/properties-for-rent-in-dammam"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for rent in Makkah",
+                        "url": "https://wasalt.sa/en/properties-for-rent-in-makkah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for rent in Riyadh",
+                        "url": "https://wasalt.sa/en/villas-for-rent-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for rent in Jeddah",
+                        "url": "https://wasalt.sa/en/villas-for-rent-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for rent in Madinah",
+                        "url": "https://wasalt.sa/en/villas-for-rent-in-madinah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villa for rent in Dammam ",
+                        "url": "https://wasalt.sa/en/villas-for-rent-in-dammam"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Riyadh",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Jeddah",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Madinah",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-madinah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Dammam",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-dammam"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for sale in Riyadh",
+                        "url": "https://wasalt.sa/en/properties-for-sale-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for sale in Jeddah",
+                        "url": "https://wasalt.sa/en/properties-for-sale-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for sale in Makkah",
+                        "url": "https://wasalt.sa/en/properties-for-sale-in-makkah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Properties for sale in Madinah",
+                        "url": "https://wasalt.sa/en/properties-for-sale-in-madinah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Riyadh",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Jeddah",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Makkah",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-makkah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Madinah ",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-madinah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for sale in Riyadh",
+                        "url": "https://wasalt.sa/en/apartments-for-sale-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for sale in Jeddah",
+                        "url": "https://wasalt.sa/en/apartments-for-sale-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for sale in Madinah",
+                        "url": "https://wasalt.sa/en/apartments-for-sale-in-madinah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for sale in Makkah",
+                        "url": "https://wasalt.sa/en/apartments-for-sale-in-makkah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Lands for sale in Riyadh",
+                        "url": "https://wasalt.sa/en/lands-for-sale-in-riyadh"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Lands for sale in Jeddah",
+                        "url": "https://wasalt.sa/en/lands-for-sale-in-jeddah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Lands for sale in Dammam",
+                        "url": "https://wasalt.sa/en/lands-for-sale-in-dammam"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Lands for sale in Makkah",
+                        "url": "https://wasalt.sa/en/lands-for-sale-in-makkah"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Al Rimal",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-east-riyadh-al-rimal"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Al Olaya",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-central-riyadh-al-olaya"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Al Yasmeen",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-north-riyadh-al-yasmeen"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Villas for sale in Al Khaleej",
+                        "url": "https://wasalt.sa/en/villas-for-sale-in-east-riyadh-al-khaleej"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Al Rimal",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-east-riyadh-al-rimal"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Al Khaleej",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-east-riyadh-al-khaleej"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Al Olaya",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-central-riyadh-al-olaya"
+                    },
+                    {
+                        "@type": "WebPage",
+                        "name": "Apartments for rent in Al Nakheel",
+                        "url": "https://wasalt.sa/en/apartments-for-rent-in-north-riyadh-al-nakheel"
+                    }
+                ]
+            }
+        ]
+    }
+]

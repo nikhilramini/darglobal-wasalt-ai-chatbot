@@ -1,0 +1,27 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Git
+.git/
+.gitignore
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
