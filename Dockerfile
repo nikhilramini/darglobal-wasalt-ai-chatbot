@@ -44,13 +44,13 @@ COPY data/ ./data/
 COPY chroma_db/ ./chroma_db/
 
 # ==========================================
-# 7. EXPOSE STREAMLIT PORT
+# 7. EXPOSE RENDER PORT
 # ==========================================
 
-EXPOSE 8501
+EXPOSE 10000
 
 # ==========================================
 # 8. START STREAMLIT
 # ==========================================
 
-CMD ["streamlit", "run", "app.py", "--server.address=0.0.0.0", "--server.port=8501"]
+CMD ["sh", "-c", "streamlit run app.py --server.address=0.0.0.0 --server.port=${PORT:-10000} --server.headless=true"]
